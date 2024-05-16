@@ -49,7 +49,7 @@ To get a local copy up and running, follow these simple steps:
   npm start
 ```
 
-2. Open your browser and go to http://localhost:3000 to see the login form in action.
+2. Open your browser and go to http://localhost:8000 to see the login form in action.
 
 To integrate the animated login form into your project, copy the necessary components and styles into your existing codebase.
 
